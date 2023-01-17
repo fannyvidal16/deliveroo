@@ -1,0 +1,10 @@
+body{
+    background-color: #5CC9BD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.logo img{
+    max-width: 200px;
+}

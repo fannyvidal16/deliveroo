@@ -1,0 +1,49 @@
+body{
+font-family: 'IBM Plex Sans', sans-serif;
+
+}
+.top{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.logolivreur img{
+    max-width: 45px;
+}
+
+.adresse{
+    display: flex;
+    flex-direction: column;
+}
+
+.adresse p{
+    margin: 0;
+    font-weight: 100;
+}
+.rue h3{
+    margin: 0;
+}
+.rue i{
+    color:#5CC9BD;
+}
+.rue{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.profil i{
+    color:#5CC9BD;
+    font-size:x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profil{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-color: #F8F9F9;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+}
